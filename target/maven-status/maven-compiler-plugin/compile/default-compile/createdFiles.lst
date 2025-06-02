@@ -1,0 +1,9 @@
+hiber\config\HibernateConfig.class
+hiber\config\WebInit.class
+hiber\model\User.class
+hiber\dao\UserDaoImpl.class
+hiber\config\WebConfig.class
+hiber\controller\UserController.class
+hiber\service\UserService.class
+hiber\service\UserServiceImpl.class
+hiber\dao\UserDao.class
