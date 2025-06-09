@@ -17,10 +17,7 @@ public class UserController {
     public UserController(UserService userService) {
         this.userService = userService;
     }
-    @GetMapping("/")
-    public String redirectRoot() {
-        return "redirect:/users";
-    }
+
 
 
     @GetMapping
